@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucifer143ad
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to learn a lot while i'm here
 - 📫 Hope this goes amazing
 
